@@ -86,6 +86,7 @@ We highly recommend using [Anchor](https://www.anchor-lang.com), a framework for
 - [Rust playground](https://play.rust-lang.org/)
 - [Sec3's IDL Guesser](https://github.com/sec3-service/IDLGuesser): Reverse engineers IDL from onchain programs for easier integration
 - [Trail of Bits's Anchor X-ray](https://github.com/crytic/anchorx-ray): Visualizes accounts in Anchor programs
+- [Trident](https://usetrident.xyz/) - Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation. Solana Foundation grant recipient.
 - [John Saigle's Anchor version detector](https://github.com/johnsaigle/anchor-version-detector): Helps figure out which versions of Rust, Solana, and Anchor are compatible with a given Anchor project.
 
 ### CTFs
